@@ -1,4 +1,1 @@
-*.c linguist-language=C;
-*.h linguist-language=C;
-*.o linguist-language=C;
-*.cmd linguist-language=C;
+
