@@ -1,5 +1,5 @@
 *.c linguist-language=C;
-*.ko linguist-language=C;
+*.h linguist-language=C;
 *.o linguist-language=C;
 *.cmd linguist-language=C;
-Makefile linguist-language=Makefile;
+.Makefile linguist-language=Makefile;
