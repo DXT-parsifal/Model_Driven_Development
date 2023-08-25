@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/21_Linux内核定时器/timer.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/21_Linux内核定时器/timer.ko /home/student/桌面/Linux驱动开发/21_Linux内核定时器/timer.o /home/student/桌面/Linux驱动开发/21_Linux内核定时器/timer.mod.o;  true

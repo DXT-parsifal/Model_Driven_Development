@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/12_第二天作业/myled.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/12_第二天作业/myled.ko /home/student/桌面/Linux驱动开发/12_第二天作业/myled.o /home/student/桌面/Linux驱动开发/12_第二天作业/myled.mod.o;  true

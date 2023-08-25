@@ -1,0 +1,2 @@
+/home/student/桌面/Linux驱动开发/08_内核队列FIFO实现虚拟串口/vser.ko
+/home/student/桌面/Linux驱动开发/08_内核队列FIFO实现虚拟串口/vser.o

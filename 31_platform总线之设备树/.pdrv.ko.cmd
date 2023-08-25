@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/31_platform总线之设备树/pdrv.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/31_platform总线之设备树/pdrv.ko /home/student/桌面/Linux驱动开发/31_platform总线之设备树/pdrv.o /home/student/桌面/Linux驱动开发/31_platform总线之设备树/pdrv.mod.o;  true

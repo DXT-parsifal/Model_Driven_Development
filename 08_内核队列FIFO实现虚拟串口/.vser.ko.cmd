@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/08_内核队列FIFO实现虚拟串口/vser.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/桌面/Linux驱动开发/08_内核队列FIFO实现虚拟串口/vser.ko /home/student/桌面/Linux驱动开发/08_内核队列FIFO实现虚拟串口/vser.o /home/student/桌面/Linux驱动开发/08_内核队列FIFO实现虚拟串口/vser.mod.o
