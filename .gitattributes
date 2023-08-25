@@ -1,2 +1,4 @@
 *.c linguist-language=C;
+*.ko linguist-language=C;
+*.o linguist-language=C;
 Makefile linguist-language=Makefile;
