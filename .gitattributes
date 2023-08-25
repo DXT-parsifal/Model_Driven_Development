@@ -1,0 +1,2 @@
+*.Batchfile linguist-language=C
+*.Makefile linguist-language=Makefile
