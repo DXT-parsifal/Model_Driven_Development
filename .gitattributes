@@ -1,0 +1,3 @@
+*.o.cmd linguist-language=C;
+*.ko.cmd linguist-language=C;
+*.mod.cmd linguist-language=C;
