@@ -1,1 +1,0 @@
-cmd_/home/student/桌面/Linux驱动开发/02_模块传参/mode.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/02_模块传参/mode.ko /home/student/桌面/Linux驱动开发/02_模块传参/mode.o /home/student/桌面/Linux驱动开发/02_模块传参/mode.mod.o;  true

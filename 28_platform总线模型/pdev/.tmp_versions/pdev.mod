@@ -1,2 +1,0 @@
-/home/student/桌面/Linux驱动开发/28_platform总线模型/pdev/pdev.ko
-/home/student/桌面/Linux驱动开发/28_platform总线模型/pdev/pdev.o

@@ -1,2 +1,0 @@
-/home/student/桌面/Linux驱动开发/35_spi总线驱动匹配/myspi.o
-

@@ -1,1 +1,0 @@
-cmd_/home/student/桌面/Linux驱动开发/07_用户和内核的数据传输/mycdev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/桌面/Linux驱动开发/07_用户和内核的数据传输/mycdev.ko /home/student/桌面/Linux驱动开发/07_用户和内核的数据传输/mycdev.o /home/student/桌面/Linux驱动开发/07_用户和内核的数据传输/mycdev.mod.o

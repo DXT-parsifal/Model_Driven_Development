@@ -1,1 +1,0 @@
-cmd_/home/student/桌面/Linux驱动开发/05_字符设备分配/mydev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/桌面/Linux驱动开发/05_字符设备分配/mydev.ko /home/student/桌面/Linux驱动开发/05_字符设备分配/mydev.o /home/student/桌面/Linux驱动开发/05_字符设备分配/mydev.mod.o
