@@ -1,1 +1,0 @@
-cmd_/home/student/桌面/Linux驱动开发/28_platform之名字匹配/pdev/pdev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/桌面/Linux驱动开发/28_platform之名字匹配/pdev/pdev.ko /home/student/桌面/Linux驱动开发/28_platform之名字匹配/pdev/pdev.o /home/student/桌面/Linux驱动开发/28_platform之名字匹配/pdev/pdev.mod.o

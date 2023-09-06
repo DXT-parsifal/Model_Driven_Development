@@ -1,1 +1,0 @@
-cmd_/home/student/桌面/Linux驱动开发/36_spi总线实现数码管驱动/m74hc595.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/36_spi总线实现数码管驱动/m74hc595.ko /home/student/桌面/Linux驱动开发/36_spi总线实现数码管驱动/m74hc595.o /home/student/桌面/Linux驱动开发/36_spi总线实现数码管驱动/m74hc595.mod.o;  true

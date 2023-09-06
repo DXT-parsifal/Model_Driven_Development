@@ -1,1 +1,0 @@
-cmd_/home/student/桌面/Linux驱动开发/22_Linux内核级延时/delay.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/桌面/Linux驱动开发/22_Linux内核级延时/delay.ko /home/student/桌面/Linux驱动开发/22_Linux内核级延时/delay.o /home/student/桌面/Linux驱动开发/22_Linux内核级延时/delay.mod.o
