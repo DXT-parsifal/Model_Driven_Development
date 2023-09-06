@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/26_中断下半部之工作队列/key_irq.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/26_中断下半部之工作队列/key_irq.ko /home/student/桌面/Linux驱动开发/26_中断下半部之工作队列/key_irq.o /home/student/桌面/Linux驱动开发/26_中断下半部之工作队列/key_irq.mod.o;  true

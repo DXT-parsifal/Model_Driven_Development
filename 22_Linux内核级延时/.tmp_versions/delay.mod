@@ -1,0 +1,2 @@
+/home/student/桌面/Linux驱动开发/22_Linux内核级延时/delay.ko
+/home/student/桌面/Linux驱动开发/22_Linux内核级延时/delay.o
