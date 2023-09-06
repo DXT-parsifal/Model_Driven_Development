@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/24_linux使用定时器完成按键消抖/key_irq.mod := { echo  /home/student/桌面/Linux驱动开发/24_linux使用定时器完成按键消抖/key_irq.o; echo; } > /home/student/桌面/Linux驱动开发/24_linux使用定时器完成按键消抖/key_irq.mod

@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/17_异步通知IO/mydev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/桌面/Linux驱动开发/17_异步通知IO/mydev.ko /home/student/桌面/Linux驱动开发/17_异步通知IO/mydev.o /home/student/桌面/Linux驱动开发/17_异步通知IO/mydev.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/37_spi总线实现数码管显示温湿度/m74hc595.mod := { echo  /home/student/桌面/Linux驱动开发/37_spi总线实现数码管显示温湿度/m74hc595.o; echo; } > /home/student/桌面/Linux驱动开发/37_spi总线实现数码管显示温湿度/m74hc595.mod

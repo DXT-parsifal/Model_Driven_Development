@@ -1,0 +1,1 @@
+cmd_/home/student/桌面/Linux驱动开发/34_i2c驱动总线读取si7006温湿度/si7006.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/student/桌面/Linux驱动开发/34_i2c驱动总线读取si7006温湿度/si7006.ko /home/student/桌面/Linux驱动开发/34_i2c驱动总线读取si7006温湿度/si7006.o /home/student/桌面/Linux驱动开发/34_i2c驱动总线读取si7006温湿度/si7006.mod.o;  true
